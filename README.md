@@ -1,4 +1,4 @@
-# SEA Refactor Project
+# SEO Refactor Project
 [Link to Site](https://masonmarc.github.io/seo-refactor/)
 
 [Link to Repository](https://github.com/MasonMarc/seo-refactor)
