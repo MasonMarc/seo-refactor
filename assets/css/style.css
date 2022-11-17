@@ -2,11 +2,11 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-} /* adds border box and padding and margin to everything*/
+} 
 
 body {
     background-color: #d9dcd6;
-} /*sets whols page to this color*/
+} 
 
 .header {
     padding: 20px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* ------------- */
 a {
     color: #ffffff;
     text-decoration: none;
