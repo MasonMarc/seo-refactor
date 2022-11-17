@@ -1,9 +1,10 @@
+/* gives values to everything that uses stylesheet */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 } 
-
+/* gives background color to page */
 body {
     background-color: #d9dcd6;
 } 
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 /* ------------- */
+/* provides text color and decoration to links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,11 +51,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
+/* provides font size for p elements */
 p {
     font-size: 16px;
 }
-
+/* added background image to hero class and sized it */
 .hero {
     height: 800px;
     width: 100%;
